@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="27.0.4">
   <diagram name="Страница — 1" id="1lgbH9x4u3ROzhYAGhE-">
-    <mxGraphModel dx="639" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,16 +60,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qwW-FyV9AaIcFxMxt8HV-16" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Возбудимый&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fillOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qwW-FyV9AaIcFxMxt8HV-17" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Социальный&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fillOpacity=100;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2lSzlNsTMZILJbVsT5SB-1" value="R=0.486" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=2.43;" edge="1" parent="1" source="qwW-FyV9AaIcFxMxt8HV-6" target="qwW-FyV9AaIcFxMxt8HV-3">
+        <mxCell id="2lSzlNsTMZILJbVsT5SB-1" value="R=0.486" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;strokeWidth=2.43;" parent="1" source="qwW-FyV9AaIcFxMxt8HV-6" target="qwW-FyV9AaIcFxMxt8HV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="160" as="sourcePoint" />
             <mxPoint x="325" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ngUTx40D5oE2AacWBWVI-1" value="R=0.555" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2.775;fontFamily=Times New Roman;fontSize=12;strokeColor=default;" edge="1" parent="1" source="ngUTx40D5oE2AacWBWVI-2" target="ngUTx40D5oE2AacWBWVI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ngUTx40D5oE2AacWBWVI-2" value="&lt;span style=&quot;text-align: start; line-height: 19.9733px;&quot;&gt;&lt;font&gt;Демонстративный&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ngUTx40D5oE2AacWBWVI-3" value="&lt;br&gt;&lt;span&gt;&lt;font&gt;Артистический&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
